@@ -1,1 +1,1 @@
-# Python_graphics
+# python-graphics
